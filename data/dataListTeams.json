@@ -1,0 +1,162 @@
+[
+    {
+        "team_key": 2,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/2_switzerland.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 4,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/4_wales.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 6,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/6_belgium.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 7,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/7_denmark.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 10,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/10_netherlands.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 14,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/14_croatia.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 16,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/16_england.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 18,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/18_poland.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 19,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/19_spain.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 21,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/21_germany.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 22,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/22_france.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 23,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/23_portugal.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 511,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/511_mexico.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 512,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/512_canada.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 516,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/516_costa-rica.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 523,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/523_united-states.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 529,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/529_australia.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 530,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/530_cameroon.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 531,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/531_brazil.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 536,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/536_argentina.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 538,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/538_qatar.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 539,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/539_uruguay.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 540,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/540_japan.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 541,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/541_ecuador.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 644,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/644_ir-iran.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 647,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/647_saudi-arabia.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 651,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/651_korea-republic.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 675,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/675_serbia.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 717,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/717_morocco.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 719,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/719_tunisia.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 720,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/720_senegal.jpg",
+        "standing_team": "N/A"
+    },
+    {
+        "team_key": 725,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/725_ghana.jpg",
+        "standing_team": "N/A"
+    }
+]
