@@ -7,18 +7,20 @@ import os
 load_dotenv()
 apiKey = os.getenv("MY_API")
 
+
 def enregistrerJson(data):
     with open('data/dataListTeams.json', 'w') as f:
         json.dump(data, f, indent=4)
 
+
 def listTeamsLeague(met, leagueId, apiKey):
     url = f"https://apiv2.allsportsapi.com/football/?&met={met}&leagueId={leagueId}&APIkey={apiKey}"
     response = requests.get(url)
-    dataLeague = [] 
+    dataLeague = []
     try:
         if response.status_code == 200:
-            print("La requête est réussie (OK 200)") 
-            data = response.json() 
+            print("La requête est réussie (OK 200)")
+            data = response.json()
             team = data.get('result', [])
             all_team_info = []
             for elt in team:
@@ -40,6 +42,7 @@ def listTeamsLeague(met, leagueId, apiKey):
     except ValueError as e:
         print("Une erreur s'est produite lors de la conversion de la réponse en JSON :", e)
     return dataLeague
+
 
 met = "Teams"
 leagueId = "3"

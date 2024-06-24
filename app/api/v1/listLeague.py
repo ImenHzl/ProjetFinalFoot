@@ -7,20 +7,24 @@ import os
 load_dotenv()
 apiKey = os.getenv("MY_API")
 
+
 # cette fonction permet d'enregistrer les données dans un fichier json
 def enregistrerJson(infoplay):
     # Enregistrez la chaîne JSON dans un fichier
     with open("data/dataListLeague.json", "w") as jsonFile:
         json.dump(infoplay, jsonFile, indent=4)
 
+
 """
-cette fonction permet de récupérer la liste de Teams pour une league 
-elle prend 2 paramètres  
+cette fonction permet de récupérer la liste de Teams pour une league
+elle prend 2 paramètres
         params:
             met: pour spécifier la section qu'on veut récupérer
         return:
             un fichier json qui contient toutes les infos d'une league
 """
+
+
 def listLeague(met):
     url = f"https://apiv2.allsportsapi.com/football/?&met={met}&APIkey={apiKey}"
     response = requests.get(url)
@@ -52,6 +56,6 @@ def listLeague(met):
     return dataLeague  # Retourner les données
 
 
-met="Leagues"
-result= listLeague(met)
-print (result)
+met = "Leagues"
+result = listLeague(met)
+print(result)
