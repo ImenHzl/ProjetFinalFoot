@@ -1,162 +1,287 @@
 [
     {
-        "team_key": 2,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/2_switzerland.jpg",
-        "standing_team": "N/A"
+        "team_key": 78,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/78_shakhtar-donetsk.jpg",
+        "team_name": "Shakhtar Donetsk"
     },
     {
-        "team_key": 4,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/4_wales.jpg",
-        "standing_team": "N/A"
+        "team_key": 82,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/82_olympiakos.jpg",
+        "team_name": "Olympiakos"
     },
     {
-        "team_key": 6,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/6_belgium.jpg",
-        "standing_team": "N/A"
+        "team_key": 83,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/83_marseille.jpg",
+        "team_name": "Marseille"
     },
     {
-        "team_key": 7,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/7_denmark.jpg",
-        "standing_team": "N/A"
+        "team_key": 84,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/84_liverpool.jpg",
+        "team_name": "Liverpool"
     },
     {
-        "team_key": 10,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/10_netherlands.jpg",
-        "standing_team": "N/A"
+        "team_key": 85,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/85_atalanta.jpg",
+        "team_name": "Atalanta"
     },
     {
-        "team_key": 14,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/14_croatia.jpg",
-        "standing_team": "N/A"
+        "team_key": 86,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/86_ajax.jpg",
+        "team_name": "Ajax"
     },
     {
-        "team_key": 16,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/16_england.jpg",
-        "standing_team": "N/A"
+        "team_key": 91,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/91_rennes.jpg",
+        "team_name": "Rennes"
     },
     {
-        "team_key": 18,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/18_poland.jpg",
-        "standing_team": "N/A"
+        "team_key": 104,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/104_slavia-prague.jpg",
+        "team_name": "Slavia Prague"
     },
     {
-        "team_key": 19,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/19_spain.jpg",
-        "standing_team": "N/A"
+        "team_key": 108,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/108_molde.jpg",
+        "team_name": "Molde"
     },
     {
-        "team_key": 21,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/21_germany.jpg",
-        "standing_team": "N/A"
+        "team_key": 110,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/110_qarabag.jpg",
+        "team_name": "Qarabag"
     },
     {
-        "team_key": 22,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/22_france.jpg",
-        "standing_team": "N/A"
+        "team_key": 119,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/119_ludogorets.jpg",
+        "team_name": "Ludogorets"
     },
     {
-        "team_key": 23,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/23_portugal.jpg",
-        "standing_team": "N/A"
+        "team_key": 121,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/121_dinamo-zagreb.jpg",
+        "team_name": "Dinamo Zagreb"
     },
     {
-        "team_key": 511,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/511_mexico.jpg",
-        "standing_team": "N/A"
+        "team_key": 125,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/125_young-boys.jpg",
+        "team_name": "Young Boys"
     },
     {
-        "team_key": 512,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/512_canada.jpg",
-        "standing_team": "N/A"
+        "team_key": 126,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/126_ki.jpg",
+        "team_name": "K\u00cd"
     },
     {
-        "team_key": 516,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/516_costa-rica.jpg",
-        "standing_team": "N/A"
+        "team_key": 131,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/131_sheriff.jpg",
+        "team_name": "Sheriff"
     },
     {
-        "team_key": 523,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/523_united-states.jpg",
-        "standing_team": "N/A"
+        "team_key": 139,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/139_roma.jpg",
+        "team_name": "Roma"
     },
     {
-        "team_key": 529,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/529_australia.jpg",
-        "standing_team": "N/A"
+        "team_key": 143,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/143_bayer-leverkusen.jpg",
+        "team_name": "Bayer Leverkusen"
     },
     {
-        "team_key": 530,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/530_cameroon.jpg",
-        "standing_team": "N/A"
+        "team_key": 146,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/146_rangers.jpg",
+        "team_name": "Rangers"
     },
     {
-        "team_key": 531,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/531_brazil.jpg",
-        "standing_team": "N/A"
+        "team_key": 147,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/147_benfica.jpg",
+        "team_name": "Benfica"
     },
     {
-        "team_key": 536,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/536_argentina.jpg",
-        "standing_team": "N/A"
+        "team_key": 156,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/156_sporting-braga.jpg",
+        "team_name": "Sporting Braga"
     },
     {
-        "team_key": 538,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/538_qatar.jpg",
-        "standing_team": "N/A"
+        "team_key": 157,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/157_zorya.jpg",
+        "team_name": "Zorya"
     },
     {
-        "team_key": 539,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/539_uruguay.jpg",
-        "standing_team": "N/A"
+        "team_key": 158,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/158_aek-athens.jpg",
+        "team_name": "AEK Athens"
     },
     {
-        "team_key": 540,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/540_japan.jpg",
-        "standing_team": "N/A"
+        "team_key": 159,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/159_ac-milan.jpg",
+        "team_name": "AC Milan"
     },
     {
-        "team_key": 541,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/541_ecuador.jpg",
-        "standing_team": "N/A"
+        "team_key": 161,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/161_sparta-prague.jpg",
+        "team_name": "Sparta Prague"
     },
     {
-        "team_key": 644,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/644_ir-iran.jpg",
-        "standing_team": "N/A"
+        "team_key": 162,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/162_villarreal.jpg",
+        "team_name": "Villarreal"
     },
     {
-        "team_key": 647,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/647_saudi-arabia.jpg",
-        "standing_team": "N/A"
+        "team_key": 166,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/166_lask.jpg",
+        "team_name": "LASK"
     },
     {
-        "team_key": 651,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/651_korea-republic.jpg",
-        "standing_team": "N/A"
+        "team_key": 168,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/168_feyenoord.jpg",
+        "team_name": "Feyenoord"
     },
     {
-        "team_key": 675,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/675_serbia.jpg",
-        "standing_team": "N/A"
+        "team_key": 177,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/177_sporting-lisbon.jpg",
+        "team_name": "Sporting Lisbon"
     },
     {
-        "team_key": 717,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/717_morocco.jpg",
-        "standing_team": "N/A"
+        "team_key": 185,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/185_maccabi-haifa.jpg",
+        "team_name": "Maccabi Haifa"
     },
     {
-        "team_key": 719,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/719_tunisia.jpg",
-        "standing_team": "N/A"
+        "team_key": 192,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/192_galatasaray.jpg",
+        "team_name": "Galatasaray"
     },
     {
-        "team_key": 720,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/720_senegal.jpg",
-        "standing_team": "N/A"
+        "team_key": 195,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/195_zrinjski.jpg",
+        "team_name": "Zrinjski"
     },
     {
-        "team_key": 725,
-        "team_logo": "https://apiv2.allsportsapi.com/logo/725_ghana.jpg",
-        "standing_team": "N/A"
+        "team_key": 208,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/208_astana.jpg",
+        "team_name": "Astana"
+    },
+    {
+        "team_key": 216,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/216_zalgiris.jpg",
+        "team_name": "Zalgiris"
+    },
+    {
+        "team_key": 217,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/217_olimpija.jpg",
+        "team_name": "Olimpija"
+    },
+    {
+        "team_key": 237,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/237_aberdeen.jpg",
+        "team_name": "Aberdeen"
+    },
+    {
+        "team_key": 240,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/240_servette.jpg",
+        "team_name": "Servette"
+    },
+    {
+        "team_key": 242,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/242_tsc.jpg",
+        "team_name": "TSC"
+    },
+    {
+        "team_key": 1236,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/1236_sturm-graz.jpg",
+        "team_name": "Sturm Graz"
+    },
+    {
+        "team_key": 1335,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/1335_bate.jpg",
+        "team_name": "BATE"
+    },
+    {
+        "team_key": 1359,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/1359_genk.jpg",
+        "team_name": "Genk"
+    },
+    {
+        "team_key": 1373,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/1373_union-saint-gilloise.jpg",
+        "team_name": "Union Saint-Gilloise"
+    },
+    {
+        "team_key": 2452,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/2452_aris-limassol.jpg",
+        "team_name": "Aris Limassol"
+    },
+    {
+        "team_key": 3079,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/3079_brighton--hove-albion.jpg",
+        "team_name": "Brighton & Hove Albion"
+    },
+    {
+        "team_key": 3081,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/3081_west-ham-united.jpg",
+        "team_name": "West Ham United"
+    },
+    {
+        "team_key": 3549,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/3549_hjk.jpg",
+        "team_name": "HJK"
+    },
+    {
+        "team_key": 3794,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/3794_toulouse.jpg",
+        "team_name": "Toulouse"
+    },
+    {
+        "team_key": 3821,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/3821_lens.jpg",
+        "team_name": "Lens"
+    },
+    {
+        "team_key": 3962,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/3962_freiburg.jpg",
+        "team_name": "Freiburg"
+    },
+    {
+        "team_key": 4299,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/4299_panathinaikos.jpg",
+        "team_name": "Panathinaikos"
+    },
+    {
+        "team_key": 4694,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/4694_breidablik.jpg",
+        "team_name": "Breidablik"
+    },
+    {
+        "team_key": 5763,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/5763_rakow-czestochowa.jpg",
+        "team_name": "Rakow Czestochowa"
+    },
+    {
+        "team_key": 6461,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/6461_cukaricki.jpg",
+        "team_name": "Cukaricki"
+    },
+    {
+        "team_key": 6565,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/6565_slovan-bratislava.jpg",
+        "team_name": "Slovan Bratislava"
+    },
+    {
+        "team_key": 7261,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/7261_real-betis.jpg",
+        "team_name": "Real Betis"
+    },
+    {
+        "team_key": 7348,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/7348_hacken.jpg",
+        "team_name": "H\u00e4cken"
+    },
+    {
+        "team_key": 7408,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/7408_lugano.jpg",
+        "team_name": "Lugano"
+    },
+    {
+        "team_key": 7789,
+        "team_logo": "https://apiv2.allsportsapi.com/logo/7789_dnipro-1.jpg",
+        "team_name": "Dnipro-1"
     }
 ]

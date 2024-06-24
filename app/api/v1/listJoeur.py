@@ -37,10 +37,10 @@ def infoPlayersTeams(met,teamId,apiKey):
                 player_numero = elt.get('player_number', 'N/A')
                 player_type = elt.get('player_type', 'N/A')
                 infoplay={
-                    "id joueur":player_id,
-                    "nom du joueur": player_name,
-                    "numero du joeur":player_numero,
-                    "type du joueur":player_type
+                    "id_joueur":player_id,
+                    "nom_joueur": player_name,
+                    "numero_joueur":player_numero,
+                    "type_joueur":player_type
                 }
                 all_players_info.append(infoplay)
                 jsonString = json.dumps(all_players_info)

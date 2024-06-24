@@ -36,11 +36,11 @@ def listLeague(met):
                         break
                     league_key = team.get('league_key', 'N/A')
                     league_name = team.get('league_name', 'N/A')
-                    league_logo = team.get('league_logo', 'N/A')
+                    league_pays = team.get('country_name', 'N/A')
                     infoplay = {
                         "league_key": league_key,
                         "league_name": league_name,
-                        "logo_league": league_logo
+                        "pays_league": league_pays
                     }
                     all_team_info.append(infoplay)
                 enregistrerJson(all_team_info)  # Enregistrer les données dans un fichier JSON

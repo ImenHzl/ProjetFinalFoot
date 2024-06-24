@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team List</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Liste des joueurs</h1>
+        <table class="table table-striped mt-3">
+            <thead>
+                <tr>
+                    <th>ID joueur</th>
+                    <th>Nom du joueur</th>
+                    <th>Numéro Joueur</th>
+                    <th>Type du Joueur</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for joueur in joueurs %}
+                <tr>
+                    <td>{{ joueur.id_joueur }}</td>
+                    <td>{{ joueur.nom_joueur }}</td>
+                    <td>{{ joueur.numero_joueur }}</td>
+                    <td>{{ joueur.type_joueur }}</td>
+                    <td><a href="{{ url_for('team_details', idTeam=joueur.id_joueur) }}" class="btn btn-primary">Info</a></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

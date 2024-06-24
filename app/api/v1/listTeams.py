@@ -24,11 +24,11 @@ def listTeamsLeague(met, leagueId, apiKey):
             for elt in team:
                 team_key = elt.get('team_key', 'N/A')
                 team_logo = elt.get('team_logo', 'N/A')
-                standing_team = elt.get('standing_team', 'N/A')
+                team_name = elt.get('team_name', 'N/A')
                 infoplay = {
                     "team_key": team_key,
                     "team_logo": team_logo,
-                    "standing_team": standing_team
+                    "team_name": team_name
                 }
                 all_team_info.append(infoplay)
             enregistrerJson(all_team_info)
