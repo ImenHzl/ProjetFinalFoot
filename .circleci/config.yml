@@ -14,9 +14,6 @@ jobs:
       - run:
           name: Run tests
           command: pytest --junitxml=junit.xml || ((($? == 5)) && echo 'Did not find any tests to run.')
-      - run:
-          name: install dependences tests
-          command: pip install pytest
       - store_test_results:
           path: junit.xml
   deploy:
