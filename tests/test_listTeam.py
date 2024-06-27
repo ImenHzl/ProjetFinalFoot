@@ -14,20 +14,20 @@ def test_listTeams_success(requests_mock):
     leagueId = "3"
     api_response = {
         "result": [
-            {"team_key": 1, "team_logo": "logo.jpg", "standing_team": "N/A"},
-            {"team_key": 2, "team_logo": "logo.jpg", "standing_team": "N/A"},
-            {"team_key": 3, "team_logo": "logo.jpg", "standing_team": "N/A"}
+            {"team_key": 1, "team_logo": "logo.jpg", "team_name": "N/A"},
+            {"team_key": 2, "team_logo": "logo.jpg", "team_name": "N/A"},
+            {"team_key": 3, "team_logo": "logo.jpg", "team_name": "N/A"}
         ]
     }
 
     requests_mock.get(f"https://apiv2.allsportsapi.com/football/?&met={met}&leagueId={leagueId}&APIkey={apiKey}", json=api_response, status_code=200)
 
-    result = listTeamsLeague(met, leagueId, apiKey)
+    result = listTeamsLeague(met, leagueId)
     
     expected_result = [
-        {"team_key": 1, "team_logo": "logo.jpg", "standing_team": "N/A"},
-        {"team_key": 2, "team_logo": "logo.jpg", "standing_team": "N/A"},
-        {"team_key": 3, "team_logo": "logo.jpg", "standing_team": "N/A"}
+        {"team_key": 1, "team_logo": "logo.jpg", "team_name": "N/A"},
+        {"team_key": 2, "team_logo": "logo.jpg", "team_name": "N/A"},
+        {"team_key": 3, "team_logo": "logo.jpg", "team_name": "N/A"}
     ]
 
     print("Résultat réel:", result)
@@ -42,7 +42,7 @@ def test_listTeams_no_results(requests_mock):
 
     requests_mock.get(f"https://apiv2.allsportsapi.com/football/?&met={met}&leagueId={leagueId}&APIkey={apiKey}", json=api_response, status_code=200)
 
-    result = listTeamsLeague(met, leagueId, apiKey)
+    result = listTeamsLeague(met, leagueId)
     
     expected_result = []
     

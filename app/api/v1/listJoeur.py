@@ -26,7 +26,7 @@ elle prend 2 paramètres
 """
 
 
-def infoPlayersTeams(met, teamId, apiKey):
+def infoPlayersTeams(met, teamId):
     url = f"https://apiv2.allsportsapi.com/football/?met={met}&APIkey={apiKey}&teamId={teamId}"
     response = requests.get(url)
     try:

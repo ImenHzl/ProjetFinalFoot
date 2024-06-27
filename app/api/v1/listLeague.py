@@ -56,6 +56,6 @@ def listLeague(met):
     return dataLeague  # Retourner les données
 
 
-met = "Leagues"
+"""met = "Leagues"
 result = listLeague(met)
-print(result)
+print(result)"""

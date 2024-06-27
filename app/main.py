@@ -3,12 +3,7 @@ import json
 from api.v1.listTeams import listTeamsLeague
 from api.v1.listJoeur import infoPlayersTeams
 from api.v1.infoJoeur import infoPlayers
-from dotenv import load_dotenv
-import os
 
-# Charger les variables d'environnement à partir du fichier .env
-load_dotenv()
-apiKey = os.getenv("MY_API")
 
 app= FastAPI()
 
@@ -23,7 +18,7 @@ def read_listLeague():
 @app.get("/league/{idLeague}")
 def read_listTeams(idLeague: int):
     try:
-        resultat = listTeamsLeague("Teams", idLeague,apiKey)
+        resultat = listTeamsLeague("Teams", idLeague)
         return resultat
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -32,7 +27,7 @@ def read_listTeams(idLeague: int):
 @app.get("/Teams/{idTeam}")
 def read_listJoeurs(idTeam: int):
     try:
-        resultat = infoPlayersTeams("Teams", idTeam,apiKey)
+        resultat = infoPlayersTeams("Teams", idTeam)
         return resultat
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -41,12 +36,7 @@ def read_listJoeurs(idTeam: int):
 @app.get("/Joueur/{idJoueur}")
 def read_infoJoueur(idJoueur:int):
     try:
-        resultat = infoPlayers("Players", idJoueur,apiKey)
+        resultat = infoPlayers("Players", idJoueur)
         return resultat
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
-
-    
-
-
-

@@ -25,7 +25,7 @@ def enregistrerJson(infoplay):
 """
 
 
-def infoPlayers(met, playerid, apiKey):
+def infoPlayers(met, playerid):
     url = f"https://apiv2.allsportsapi.com/football/?&met={met}&playerId={playerid}&APIkey={apiKey}"
     response = requests.get(url)
     try:
@@ -57,6 +57,6 @@ def infoPlayers(met, playerid, apiKey):
 
 
 """metV1="Players"
-teamId="103051168"
-reponse= infoPlayersTeams(metV1, teamId)
+teamId="26180013"
+reponse= infoPlayers(metV1, teamId)
 print(reponse)"""

@@ -13,7 +13,7 @@ def enregistrerJson(data):
         json.dump(data, f, indent=4)
 
 
-def listTeamsLeague(met, leagueId, apiKey):
+def listTeamsLeague(met, leagueId):
     url = f"https://apiv2.allsportsapi.com/football/?&met={met}&leagueId={leagueId}&APIkey={apiKey}"
     response = requests.get(url)
     dataLeague = []
@@ -44,7 +44,7 @@ def listTeamsLeague(met, leagueId, apiKey):
     return dataLeague
 
 
-met = "Teams"
+"""met = "Teams"
 leagueId = "3"
 resultat = listTeamsLeague(met, leagueId, apiKey)
-print(resultat)
+print(resultat)"""
